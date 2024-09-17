@@ -1,7 +1,4 @@
-Here’s a suggested README.md for the GitHub repository:
 
-markdown
-Copy code
 # Allure Reporting with Selenium and Cucumber
 
 This project integrates **Allure Reports** with Selenium WebDriver and Cucumber (BDD) to generate detailed, interactive test reports for automation testing.
